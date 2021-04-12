@@ -1,10 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:flutter_ui_training/widgets/build_login_screen.dart';
-import 'package:flutter_ui_training/widgets/build_sign_up_screen.dart';
-import 'package:flutter_ui_training/widgets/build_submit_button.dart';
-import 'package:flutter_ui_training/widgets/build_text_button.dart';
+import 'package:flutter_ui_training/widgets/widgets.dart';
 
 class LoginSignUpScreen extends StatefulWidget {
   @override
